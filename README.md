@@ -45,8 +45,9 @@ các mở terminal trên neovim thì các bạn bấm <leader>tt
 
 một số hình ảnh config neovim của mình tạo
 
-![Screenshot From 2025-06-01 09-35-05](https://github.com/user-attachments/assets/386a457f-6cb8-4ed6-875c-520c48616c5a)
+![Screenshot From 2025-06-01 09-35-05](https://github.com/user-attachments/assets/1e1a5ad7-2ee3-4f42-8183-ecf346d1292c)
 
-![Screenshot From 2025-06-01 09-38-12](https://github.com/user-attachments/assets/5e57e379-07cd-43cb-b50d-c8fcb6d8394d)
+![Screenshot From 2025-06-01 09-38-12](https://github.com/user-attachments/assets/c67b07be-6640-4772-9bac-0e9dee653982)
+
 
 chúc các bạn thành công

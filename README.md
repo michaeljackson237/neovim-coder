@@ -41,7 +41,7 @@ cmd 3:
 
 nvim
 
-các mở terminal trên neovim thì các bạn bấm <leader>tt
+các mở terminal trên neovim thì các bạn bấm space t t
 
 một số hình ảnh config neovim của mình tạo
 
